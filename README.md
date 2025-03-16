@@ -17,11 +17,7 @@ Este é um **Relógio Digital** desenvolvido com **HTML, CSS e JavaScript**. Ele
 - **HTML** → Estrutura da página.
 - **CSS** → Estilização e efeitos visuais.
 - **JavaScript** → Lógica para atualização do horário.
-
-## 📷 Captura de Tela
-
-![Relógio Digital](assets/image.png)
-
+- 
 ## 👅 Como Executar o Projeto
 
 1️⃣ **Clone este repositório**:
