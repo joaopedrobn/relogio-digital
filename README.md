@@ -2,7 +2,7 @@
 
 ![Relógio Digital](assets/relogio.png)
 
-Visite o projeto [**aqui!**](https://joaopedrobn.github.io/relogio-digital/)
+Visite o projeto [aqui](https://joaopedrobn.github.io/relogio-digital/).
 
 ## 📌 Descrição
 
@@ -19,27 +19,7 @@ Este é um **Relógio Digital** desenvolvido com **HTML, CSS e JavaScript**. Ele
 - **HTML** → Estrutura da página.
 - **CSS** → Estilização e efeitos visuais.
 - **JavaScript** → Lógica para atualização do horário.
-- 
-## 👅 Como Executar o Projeto
-
-1️⃣ **Clone este repositório**:
-
-```bash
-git clone https://github.com/joaopedrobn/relogio-digital.git
-```
-
-2️⃣ **Acesse o diretório**:
-
-```bash
-cd relogio-digital
-```
-
-3️⃣ **Abra o arquivo `index.html` no navegador**.
 
 ## 🏆 Créditos
 
-Este projeto foi inspirado no tutorial de **Larissa Kich**, que compartilhou um guia detalhado sobre como criar um relógio digital estilizado. Agradecemos pela contribuição!
-
----
-
-📌 **Sinta-se à vontade para contribuir com melhorias ou customizar o design!** 🚀
+Este projeto foi inspirado no tutorial de [Larissa Kich](https://github.com/Larissakich), que compartilhou um guia detalhado sobre como criar um relógio digital estilizado. Agradeço pela sua ajuda!
